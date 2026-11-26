@@ -50,6 +50,7 @@ CSS = """
 .post .body{margin-top:32px}
 .post .body h2{font-size:clamp(24px,2.6vw,32px);margin:44px 0 14px}
 .post .body h3{font-size:20px;margin:28px 0 10px}
+.post .body p{margin:0 0 1.1em}
 .post .body p,.post .body li{font-size:17.5px;line-height:1.7}
 .post .body ul,.post .body ol{padding-left:22px;margin:0 0 1.2em;color:var(--body)}
 .post .body li{margin-bottom:8px;max-width:66ch}
@@ -62,10 +63,11 @@ CSS = """
 .post th,.post td{text-align:left;padding:12px 10px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--body)}
 .post th{color:var(--navy);font-weight:700;background:var(--card)}
 .post .box{margin-top:44px;background:var(--navy);border-radius:24px;padding:clamp(22px,3vw,34px)}
+.post .box .btn.cta{background:var(--ouro);border-color:var(--ouro);color:var(--navy)}.post .box .btn.cta:after{color:var(--navy)}
 .post .box h2{color:var(--ala);font-size:26px}.post .box p{color:#C9D1DB;margin-top:10px}
 .post .disc{font-size:13.5px;color:var(--aco);margin-top:28px}
-.tag{display:inline-block;font-size:12.5px;font-weight:700;padding:4px 10px;border-radius:999px;background:#F3ECDD;color:var(--cob);letter-spacing:.06em}
-.card .tag{align-self:flex-start}
+.selo{display:inline-block;font-size:12.5px;font-weight:700;padding:4px 10px;border-radius:999px;background:#F3ECDD;color:#7A5C22;letter-spacing:.06em}
+.card .selo{align-self:flex-start}
 .card time{font-size:13.5px;color:var(--aco)}
 """
 
@@ -222,7 +224,7 @@ def paginas():
 
 
 def card(p, r):
-    return (f'<a class="card" href="{r}conteudo/{p["slug"]}/"><span class="tag">{E(FORMATO.get(p["formato"], "Artigo"))}</span>'
+    return (f'<a class="card" href="{r}conteudo/{p["slug"]}/"><span class="selo">{E(FORMATO.get(p["formato"], "Artigo"))}</span>'
             f'<h2 style="font-size:21px;letter-spacing:-.01em">{E(p["titulo"])}</h2><p>{E(p.get("resumo") or p["descricao"])}</p>'
             f'<time datetime="{p["data"]}">{data_br(p["data"])}</time><span class="go">Ler →</span></a>')
 
@@ -285,14 +287,14 @@ def build():
                     if cat_slug != 'simulador' else '')
         main = f'''<div class="band"><article class="post">
   <nav class="crumb" aria-label="Você está em"><a href="../../">Início</a> / <a href="../">Conteúdo</a> / {E(cat_nome)}</nav>
-  <span class="tag">{E(FORMATO.get(p['formato'], 'Artigo'))}</span>
+  <span class="selo">{E(FORMATO.get(p['formato'], 'Artigo'))}</span>
   <h1 style="margin-top:14px;font-size:clamp(32px,4.4vw,50px)">{E(p['titulo'])}</h1>
   <div class="meta"><span>Por Equipe Souvrin</span><time datetime="{p['data']}">{data_br(p['data'])}</time><span>{p['min']} min de leitura</span></div>
   <div class="body">
 {body}
   </div>
   <div class="box"><h2>Quer ver a conta do seu caso?</h2><p>Um consultor da Souvrin responde pelo WhatsApp com as opções e o custo total, antes de qualquer assinatura.</p>
-   <div class="row" style="margin-top:18px"><a class="btn cta" href="../../#simulador">Simular agora</a>{cta_prod}</div></div>
+   <div class="row" style="margin-top:18px"><a class="btn cta" href="../../#simulador">Simular meu crédito</a>{cta_prod}</div></div>
   <p class="disc">Publicado em {data_br(p['data'])}{upd}. Conteúdo informativo. Taxas, prazos e limites são referências e dependem da análise de crédito e das regras de cada instituição. A Souvrin não é instituição financeira: atua na consultoria e intermediação de operações de instituições parceiras.</p>
  </article></div>
  <div class="band" style="padding-top:0"><div class="wrap">
