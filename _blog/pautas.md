@@ -2,8 +2,10 @@
 
 ## Fila
 
-- Espelhar os posts já publicados na Shield que são de home equity (LTV, trocar dívida cara por barata, construção não averbada), com texto adaptado.
+(vazia: novas pautas seguem o espelho diário da Shield)
 
 ## Publicadas
 
-(nenhuma)
+- 26/11/2026 · artigo · LTV · /conteudo/ltv-quanto-do-imovel-vira-credito/ (espelho de o-que-e-ltv-no-emprestimo-com-garantia-de-imovel)
+- 26/11/2026 · artigo · trocar dívida cara · /conteudo/reorganizar-dividas-com-garantia-de-imovel/ (espelho de trocar-divida-cara-por-barata)
+- 26/11/2026 · artigo · construção não averbada · /conteudo/imovel-com-construcao-nao-averbada-pode-ser-garantia/ (espelho de construcao-nao-averbada-emprestimo-com-garantia-de-imovel)
