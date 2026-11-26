@@ -64,7 +64,7 @@ CSS = """
 .post .box{margin-top:44px;background:var(--navy);border-radius:24px;padding:clamp(22px,3vw,34px)}
 .post .box h2{color:var(--ala);font-size:26px}.post .box p{color:#C9D1DB;margin-top:10px}
 .post .disc{font-size:13.5px;color:var(--aco);margin-top:28px}
-.tag{display:inline-block;font-size:12.5px;font-weight:700;padding:4px 10px;border-radius:999px;background:#E3E9FB;color:var(--cob)}
+.tag{display:inline-block;font-size:12.5px;font-weight:700;padding:4px 10px;border-radius:999px;background:#F3ECDD;color:var(--cob);letter-spacing:.06em}
 .card .tag{align-self:flex-start}
 .card time{font-size:13.5px;color:var(--aco)}
 """
