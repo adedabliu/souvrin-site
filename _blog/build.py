@@ -193,7 +193,7 @@ def head(title, desc, url, typ='website', extra=''):
 
 ORG = {"@type": ["FinancialService", "Organization"], "@id": SITE + "/#org", "name": "SOUVRIN Soluções Financeiras",
        "url": SITE + "/", "email": "contato@souvrin.com.br",
-       "areaServed": {"@type": "Country", "name": "Brasil"},
+       "areaServed": {"@type": "Country", "name": "Brasil"}, "logo": SITE + "/assets/icon-512.png", "image": SITE + "/assets/og.png", "sameAs": ["https://www.instagram.com/souvrin.co/"],
        "description": "Consultoria em crédito com garantia de imóvel (home equity) para pessoas e empresas."}
 
 
