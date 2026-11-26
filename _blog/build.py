@@ -211,7 +211,7 @@ def paginas():
               "description": meta['descricao'], "inLanguage": "pt-BR", "publisher": {"@id": SITE + "/#org"}}]}
         page = render(h, ld, m.group(2), depth).replace(' class="on" aria-current="page"', '')
         if u == '/404.html':
-            page = page.replace('href="assets/', 'href="/assets/').replace('href=""', 'href="/"').replace('href="#', 'href="/#').replace('href="conteudo/', 'href="/conteudo/').replace('href="privacidade/', 'href="/privacidade/')
+            page = page.replace('href="assets/', 'href="/assets/').replace('src="assets/', 'src="/assets/').replace('srcset="assets/', 'srcset="/assets/').replace(', assets/', ', /assets/').replace('href=""', 'href="/"').replace('href="#', 'href="/#').replace('href="conteudo/', 'href="/conteudo/').replace('href="privacidade/', 'href="/privacidade/')
             (ROOT / '404.html').write_text(page)
             continue
         dest = ROOT / u.strip('/') / 'index.html' if u != '/' else ROOT / 'index.html'
