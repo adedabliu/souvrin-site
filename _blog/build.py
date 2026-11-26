@@ -294,7 +294,7 @@ def build():
 {body}
   </div>
   <div class="box"><h2>Quer ver a conta do seu caso?</h2><p>Um consultor da Souvrin responde pelo WhatsApp com as opções e o custo total, antes de qualquer assinatura.</p>
-   <div class="row" style="margin-top:18px"><a class="btn cta" href="../../#atendimento">Solicitar atendimento</a>{cta_prod}</div></div>
+   <div class="row" style="margin-top:18px"><a class="btn cta" href="../../#atendimento">Agendar minha conversa reservada</a>{cta_prod}</div></div>
   <p class="disc">Publicado em {data_br(p['data'])}{upd}. Conteúdo informativo. Taxas, prazos e limites são referências e dependem da análise de crédito e das regras de cada instituição. A Souvrin não é instituição financeira: atua na consultoria e intermediação de operações de instituições parceiras.</p>
  </article></div>
  <div class="band" style="padding-top:0"><div class="wrap">
