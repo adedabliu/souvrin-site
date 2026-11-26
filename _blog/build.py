@@ -21,7 +21,7 @@ Corpo em Markdown: ## e ### para títulos, parágrafos, listas (- e 1.), > para 
 tabelas com |, **negrito**, *itálico* e [link](/caminho/). Uma seção "## Perguntas frequentes"
 com perguntas em ### vira schema FAQPage.
 """
-import datetime, html, json, pathlib, re, sys
+import datetime, hashlib, html, json, pathlib, re, sys
 
 SITE = 'https://www.souvrin.com.br'
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -174,7 +174,7 @@ def data_br(d):
 def render(head, ld, main, depth, aria=True):
     r = '../' * depth
     h = MOLDE.replace('{{HEAD}}', head).replace('{{LD}}', f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>')
-    h = h.replace('{{CSS}}', re.sub(r'\s*\n\s*', '', CSS)).replace('{{MAIN}}', main).replace('{{R}}', r)
+    h = h.replace('{{V}}', hashlib.md5((ROOT / 'assets/site.css').read_bytes()).hexdigest()[:8]).replace('{{CSS}}', re.sub(r'\s*\n\s*', '', CSS)).replace('{{MAIN}}', main).replace('{{R}}', r)
     if not aria:
         h = h.replace(' aria-current="page"', '', 1)
     return h
