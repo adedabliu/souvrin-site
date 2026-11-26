@@ -190,7 +190,7 @@ def head(title, desc, url, typ='website', extra=''):
 
 
 ORG = {"@type": ["FinancialService", "Organization"], "@id": SITE + "/#org", "name": "SOUVRIN Soluções Financeiras",
-       "url": SITE + "/", "email": "contato@souvrin.com.br", "telephone": "+55-12-99134-6990",
+       "url": SITE + "/", "email": "contato@souvrin.com.br",
        "areaServed": {"@type": "Country", "name": "Brasil"},
        "description": "Consultoria em crédito com garantia de imóvel (home equity) para pessoas e empresas."}
 
