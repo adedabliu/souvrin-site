@@ -211,6 +211,11 @@ def paginas():
             h = h.replace('index, follow, max-image-preview:large', meta['robots'])
         ld = {"@context": "https://schema.org", "@graph": [ORG, {"@type": "WebPage", "url": SITE + u, "name": meta['titulo'],
               "description": meta['descricao'], "inLanguage": "pt-BR", "publisher": {"@id": SITE + "/#org"}}]}
+        qa = re.findall(r'<details><summary>(.*?)</summary><p>(.*?)</p></details>', m.group(2), re.S)
+        if qa:
+            txt = lambda x: html.unescape(re.sub(r'<[^>]+>', '', x)).strip()
+            ld['@graph'].append({"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": txt(q),
+                "acceptedAnswer": {"@type": "Answer", "text": txt(r)}} for q, r in qa]})
         page = render(h, ld, m.group(2), depth).replace(' class="on" aria-current="page"', '')
         if u == '/404.html':
             page = page.replace('href="assets/', 'href="/assets/').replace('src="assets/', 'src="/assets/').replace('srcset="assets/', 'srcset="/assets/').replace(', assets/', ', /assets/').replace(' 1x, assets/', ' 1x, /assets/').replace('href=""', 'href="/"').replace('href="#', 'href="/#').replace('href="conteudo/', 'href="/conteudo/').replace('href="privacidade/', 'href="/privacidade/')
