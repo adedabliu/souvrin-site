@@ -16,7 +16,7 @@ Antes das etapas, vale separar os papéis, porque é aqui que nasce a maior part
 - **Você (o proponente):** informa o objetivo, entrega documentos e decide se aceita a proposta.
 - **A instituição financeira:** analisa o crédito, contrata a avaliação do imóvel, define taxa, prazo e valor aprovado, e libera os recursos.
 - **O Registro de Imóveis:** registra a garantia na matrícula. Sem esse registro, não há liberação.
-- **A Souvrin:** consultoria e intermediação. Estruturamos a operação, comparamos as instituições disponíveis para o caso, organizamos a documentação e acompanhamos cada etapa até o dinheiro cair. A Souvrin não é instituição financeira e não aprova crédito.
+- **A Souvrin:** consultoria e intermediação. Estruturamos a operação, comparamos as instituições disponíveis para o caso, organizamos a documentação e acompanhamos cada etapa até o dinheiro cair. A Souvrin atua na originação: não é instituição financeira, não aprova crédito e não é parte do contrato. Depois da liberação, a cobrança, eventuais renegociações e, em caso de inadimplência, a execução da garantia ficam exclusivamente com a instituição credora.
 
 ## As sete etapas, uma a uma
 
