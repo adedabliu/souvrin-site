@@ -39,6 +39,7 @@ Desconfie de quem promete o que não controla. Uma consultoria de crédito idôn
 - **não garante aprovação**, porque quem decide é a instituição financeira;
 - **não promete taxa antes da análise**, porque ela depende do imóvel, da renda e do prazo;
 - **não pede depósito antecipado para "liberar" crédito**, um golpe comum no mercado;
+- **não assume o papel do credor:** a consultoria origina a operação, mas não é parte do contrato, não responde pela inadimplência e não conduz cobrança nem execução de garantia, que são da instituição financeira;
 - **não esconde o risco da garantia:** se as parcelas não forem pagas, o imóvel pode ser retomado, nos termos da [Lei 9.514/1997](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm).
 
 Também faz parte do trabalho dizer quando a operação não compensa. Em dívidas pequenas, por exemplo, os custos fixos de avaliação e registro pesam demais. Mostramos esse tipo de conta em [reorganizar dívidas caras com garantia de imóvel](/conteudo/reorganizar-dividas-com-garantia-de-imovel/).

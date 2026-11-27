@@ -45,7 +45,7 @@ Premissas ilustrativas, sem relação com condições reais: um empresário com 
 
 ## O risco real de perder o imóvel
 
-Esse ponto merece franqueza. Até a quitação, a instituição tem a propriedade fiduciária do imóvel, e você mantém a posse e o uso. Se as parcelas não forem pagas, o credor pode consolidar a propriedade e levar o bem a leilão, seguindo o rito da Lei 9.514/1997. Para quem já enfrenta dificuldades, o risco é mais concreto do que para quem contrata com as finanças em ordem. Por isso, o valor deve ser o necessário, e não o máximo; veja como o limite é calculado em [LTV: quanto do seu imóvel pode virar crédito](/conteudo/ltv-quanto-do-imovel-vira-credito/).
+Esse ponto merece franqueza. Até a quitação, a instituição tem a propriedade fiduciária do imóvel, e você mantém a posse e o uso. Se as parcelas não forem pagas, o credor pode consolidar a propriedade e levar o bem a leilão, seguindo o rito da Lei 9.514/1997. Para quem já enfrenta dificuldades, o risco é mais concreto do que para quem contrata com as finanças em ordem. Por isso, o valor deve ser o necessário, e não o máximo; veja como o limite é calculado em [LTV: quanto do seu imóvel pode virar crédito](/conteudo/ltv-quanto-do-imovel-vira-credito/). A Souvrin atua na originação e não é parte do contrato: a cobrança e a eventual execução da garantia são conduzidas exclusivamente pela instituição credora. Por isso, o nosso filtro vem antes, na análise de que a parcela cabe com folga.
 
 ## Quando é melhor renegociar antes
 
