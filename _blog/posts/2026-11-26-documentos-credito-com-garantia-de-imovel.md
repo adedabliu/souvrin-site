@@ -11,10 +11,12 @@ A documentação é a etapa que mais atrasa uma operação com garantia de imóv
 
 ## Quando cada documento entra
 
-Não é preciso reunir tudo no primeiro contato. Na Souvrin, a documentação é pedida em duas fases:
+Não é preciso reunir tudo no primeiro contato. Na Souvrin, a documentação é pedida por etapas, e a seguinte só começa quando a anterior está completa:
 
-1. **Diagnóstico:** matrícula atualizada do imóvel e uma visão da renda. Com isso já dá para saber se a operação é viável e qual o valor possível.
-2. **Análise formal:** o restante da lista, depois que a estrutura foi definida e a instituição escolhida.
+1. **Imóvel:** fotos (fachada e ambientes), matrícula atualizada e IPTU do ano. Com isso já dá para saber se o imóvel é aceito e qual o valor possível.
+2. **Documentos pessoais:** RG ou CNH, certidão de estado civil, comprovante de endereço e e-mail.
+3. **Renda:** holerites ou extratos e a declaração do Imposto de Renda, conforme a origem da renda.
+4. **Cônjuge e coproprietários**, quando houver, e o que a instituição pedir para o contrato.
 
 Pedir só o necessário em cada momento também é uma questão de proteção de dados: documentos pessoais circulam apenas quando o caso de fato avança.
 
@@ -78,7 +80,7 @@ Quer entender em que ponto do processo cada documento é usado? O guia [crédito
 
 ### Preciso mandar todos os documentos logo no início?
 
-Não. Para o diagnóstico bastam a matrícula atualizada e uma visão da renda. O restante é pedido quando a operação avança.
+Não. Começamos pelo imóvel: fotos, matrícula atualizada e IPTU. Os documentos pessoais e a renda vêm nas etapas seguintes, quando o caso avança.
 
 ### Qual a validade da matrícula do imóvel para o crédito?
 
