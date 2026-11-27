@@ -7,7 +7,7 @@ formato: artigo
 palavra_chave: o que acontece se não pagar empréstimo com garantia de imóvel
 resumo: Do primeiro atraso ao leilão, a execução da alienação fiduciária segue prazos curtos e acontece no cartório, sem processo judicial. O passo a passo da lei e, sobretudo, como não chegar a esse ponto.
 ---
-Quem oferece o imóvel em garantia costuma ter uma dúvida que nem sempre faz em voz alta: e se um dia as parcelas não couberem mais? Se a dívida não for paga, a instituição credora pode, depois de uma intimação com prazo de 15 dias para regularizar, consolidar a propriedade em seu nome e levar o imóvel a leilão, tudo pela via extrajudicial, no Registro de Imóveis. Conhecer esse rito é a melhor forma de garantir que ele nunca alcance o seu patrimônio.
+Quem oferece o imóvel em garantia costuma ter uma dúvida que nem sempre faz em voz alta: e se um dia as parcelas não couberem mais? Se a dívida não for paga, a instituição credora pode, depois de uma intimação com prazo de 15 dias para regularizar, consolidar a propriedade em seu nome e levar o imóvel a leilão, tudo pela via extrajudicial, no Registro de Imóveis. Conhecer esse rito é a melhor forma de evitar que ele alcance o seu patrimônio.
 
 ## Por que a execução é rápida
 
@@ -23,7 +23,7 @@ O contrato pode prever um prazo de carência, após o qual a intimação é expe
 
 A pedido do credor, o oficial do Registro de Imóveis intima o devedor a pagar, em **15 dias**, a parcela vencida e as que vencerem até a data do pagamento, os juros do contrato, as multas e demais encargos, os tributos, as contribuições de condomínio do imóvel e as despesas de cobrança e de intimação (art. 26, § 1º). Pagar tudo isso é o que a lei chama de **purgar a mora**.
 
-A intimação é pessoal. Após duas tentativas frustradas, com suspeita de ocultação, cabe intimação por hora certa (art. 26, § 3º-A). Em local ignorado, incerto ou inacessível, ela é feita por edital publicado por ao menos três dias, e o prazo conta da última publicação (art. 26, § 4º). Mudanças de endereço devem ser informadas ao credor (art. 26, § 4º-A).
+A intimação é pessoal. Após duas tentativas frustradas, com suspeita de ocultação, cabe intimação por hora certa (art. 26, § 3º-A). Em local ignorado, incerto ou inacessível, ela é feita por edital publicado por ao menos três dias, e o prazo conta da última publicação (art. 26, § 4º). Por isso, mantenha o seu endereço atualizado com a instituição.
 
 ### 3. Pagamento no cartório
 
