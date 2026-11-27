@@ -55,7 +55,7 @@ Preveja custos com taxas municipais, contribuições calculadas no Sero e emolum
 
 Em regra, não. O dinheiro só é liberado depois que a garantia é registrada na matrícula, e a regularização costuma ser exigida antes desse registro. Quem pretende usar o crédito deve, portanto, tratar a averbação como etapa preliminar e se planejar para ela com recursos próprios.
 
-Uma boa prática é comparar três documentos antes de pedir qualquer proposta: a matrícula atualizada, o carnê do IPTU e o imóvel como ele realmente está. Se houver diferença de área, você sabe de antemão se compensa regularizar primeiro. Quando quiser medir o potencial do seu bem já considerando esse ajuste, use o [simulador](/#simulador). Se o objetivo for reorganizar compromissos financeiros, veja também [como reorganizar dívidas com garantia de imóvel](/conteudo/reorganizar-dividas-com-garantia-de-imovel/).
+Na Souvrin, essa verificação faz parte do diagnóstico, antes de o caso chegar a qualquer instituição: é a etapa que evita descobrir o problema só no laudo. A lista completa do que é pedido sobre o imóvel está em [documentos para crédito com garantia de imóvel](/conteudo/documentos-credito-com-garantia-de-imovel/). Uma boa prática é comparar três documentos antes de pedir qualquer proposta: a matrícula atualizada, o carnê do IPTU e o imóvel como ele realmente está. Se houver diferença de área, você sabe de antemão se compensa regularizar primeiro. Quando quiser medir o potencial do seu bem já considerando esse ajuste, use o [simulador](/#simulador). Se o objetivo for reorganizar compromissos financeiros, veja também [como reorganizar dívidas com garantia de imóvel](/conteudo/reorganizar-dividas-com-garantia-de-imovel/).
 
 ## Perguntas frequentes
 

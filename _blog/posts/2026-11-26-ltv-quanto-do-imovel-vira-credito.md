@@ -77,7 +77,7 @@ Quem tem um patrimônio robusto muitas vezes pode usar o limite todo, mas nem se
 
 Em vez de perguntar "qual o máximo que consigo?", o caminho mais prudente é definir de quanto você precisa, por quanto tempo e que parcela cabe com tranquilidade. Se a finalidade for substituir passivos caros, o conteúdo sobre [como reorganizar dívidas com garantia de imóvel](/conteudo/reorganizar-dividas-com-garantia-de-imovel/) detalha essa estratégia.
 
-Para ter uma estimativa inicial com base no seu caso, use o [simulador](/#simulador). A resposta final sempre depende da análise da instituição, da avaliação do imóvel e da documentação.
+É esse o raciocínio que seguimos na Souvrin ao desenhar cada operação: o valor nasce do objetivo e da parcela confortável, e o LTV entra como limite, não como meta. Para ver em que momento a avaliação e o cálculo do LTV acontecem, leia [crédito com garantia de imóvel: o processo completo](/conteudo/como-funciona-credito-com-garantia-de-imovel-etapas/). Para ter uma estimativa inicial com base no seu caso, use o [simulador](/#simulador). A resposta final sempre depende da análise da instituição, da avaliação do imóvel e da documentação.
 
 ## Perguntas frequentes
 

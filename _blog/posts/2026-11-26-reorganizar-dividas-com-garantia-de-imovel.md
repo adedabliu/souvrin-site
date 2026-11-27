@@ -84,7 +84,7 @@ O valor liberado também depende da avaliação. Segundo a Abecip, o LTV médio 
 5. **Assinatura e registro:** o contrato é registrado no cartório de imóveis e o dinheiro só é liberado depois disso.
 6. **Quitação imediata:** pague as dívidas no mesmo dia, guarde os termos de quitação e reduza os limites do cartão.
 
-O processo costuma levar algumas semanas, principalmente por causa da avaliação e do registro. Se quiser testar valores e prazos antes de qualquer conversa, use o [simulador](/#simulador).
+O processo costuma levar algumas semanas, principalmente por causa da avaliação e do registro. Na Souvrin, acompanhamos cada uma dessas etapas com você, do mapa das dívidas aos termos de quitação. O passo a passo completo, com o papel de cada parte, está em [crédito com garantia de imóvel: o processo completo](/conteudo/como-funciona-credito-com-garantia-de-imovel-etapas/), e a lista do que separar, em [documentos para crédito com garantia de imóvel](/conteudo/documentos-credito-com-garantia-de-imovel/). Se quiser testar valores e prazos antes de qualquer conversa, use o [simulador](/#simulador).
 
 ## Perguntas frequentes
 
