@@ -33,7 +33,7 @@ Nesse caso, o saldo devedor entra na conta. Parte do novo crédito é usada para
 
 ## Por que a instituição não libera o valor inteiro
 
-A razão está na natureza da garantia. O imóvel fica vinculado por **alienação fiduciária**, regime previsto na [Lei 9.514/1997](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm). Enquanto a dívida está em dia, o imóvel continua sendo seu para morar ou usar. Se houver inadimplência, porém, o credor pode retomar o bem e levá-lo a leilão para recuperar o que emprestou. É um risco real, e quem contrata deve ter clareza de que o patrimônio responde pela operação.
+A razão está na natureza da garantia. O imóvel fica vinculado por **alienação fiduciária**, regime previsto na [Lei 9.514/1997](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm). Até a quitação, a instituição tem a propriedade fiduciária do imóvel, e você mantém a posse e o uso para morar ou trabalhar. Se houver inadimplência, porém, o credor pode retomar o bem e levá-lo a leilão para recuperar o que emprestou. É um risco real, e quem contrata deve ter clareza de que o patrimônio responde pela operação.
 
 Para se proteger desse cenário, a instituição deixa uma folga entre o crédito e o valor do imóvel. Ela existe por três motivos:
 
@@ -50,8 +50,8 @@ Os limites variam entre instituições, mas há um padrão geral de referência:
 | Tipo de imóvel | LTV costuma ser |
 |---|---|
 | Apartamento | até 60% |
-| Casa e sobrado | em geral menor, entre 45% e 50% |
-| Sala, loja e galpão comercial | bem menor, perto de 30% |
+| Casa e sobrado | em geral menor que o de apartamento |
+| Sala, loja e galpão comercial | bem menor |
 | Terreno | menor ainda, quando aceito |
 | Imóvel rural | poucas instituições aceitam |
 
@@ -65,7 +65,7 @@ Se o LTV é o teto, o que determina o ponto em que você realmente chega?
 2. **A renda.** A parcela precisa caber no orçamento comprovado. Em geral, as instituições analisam quanto da renda ficaria comprometido.
 3. **A situação documental.** Matrícula com pendências, dívidas de IPTU ou construção sem averbação podem reduzir o valor aprovado ou travar a operação até a regularização. Sobre este último ponto, vale ler o conteúdo sobre [imóvel com construção não averbada como garantia](/conteudo/imovel-com-construcao-nao-averbada-pode-ser-garantia/).
 
-Um dado ajuda a calibrar a expectativa. Segundo a [Abecip](https://www.abecip.org.br/), o LTV médio das operações de home equity no primeiro semestre de 2026 foi de 33%. Ou seja, na prática o crédito costuma ficar bem abaixo do limite máximo.
+Por isso, na prática, o crédito costuma ficar abaixo do limite máximo.
 
 ## Tomar menos que o teto pode ser a decisão mais inteligente
 
@@ -77,7 +77,7 @@ Quem tem um patrimônio robusto muitas vezes pode usar o limite todo, mas nem se
 
 Em vez de perguntar "qual o máximo que consigo?", o caminho mais prudente é definir de quanto você precisa, por quanto tempo e que parcela cabe com tranquilidade. Se a finalidade for substituir passivos caros, o conteúdo sobre [como reorganizar dívidas com garantia de imóvel](/conteudo/reorganizar-dividas-com-garantia-de-imovel/) detalha essa estratégia.
 
-Para ter uma estimativa inicial com base no seu caso, use o [simulador](/#simulador). A resposta final sempre depende da análise da instituição, da avaliação do imóvel e da documentação.
+É esse o raciocínio que seguimos na Souvrin ao desenhar cada operação: o valor nasce do objetivo e da parcela confortável, e o LTV entra como limite, não como meta. Para ver em que momento a avaliação e o cálculo do LTV acontecem, leia [crédito com garantia de imóvel: o processo completo](/conteudo/como-funciona-credito-com-garantia-de-imovel-etapas/). Para ter uma estimativa inicial com base no seu caso, use o [simulador](/#simulador). A resposta final sempre depende da análise da instituição, da avaliação do imóvel e da documentação.
 
 ## Perguntas frequentes
 

@@ -60,7 +60,7 @@ Para dívidas de valor mais baixo, os custos fixos da operação pesam mais, e r
 
 A análise olha para a renda e para o bem. Matrícula atualizada, impostos em dia e situação documental regular facilitam o processo. Quando há acréscimos que nunca foram registrados, vale entender antes se isso atrapalha: o artigo sobre [imóvel com construção não averbada como garantia](/conteudo/imovel-com-construcao-nao-averbada-pode-ser-garantia/) explica o que muda nesses casos.
 
-O valor liberado também depende da avaliação. Segundo a Abecip, o LTV médio das operações no primeiro semestre de 2026 foi de 33% do valor do imóvel. Para entender como esse percentual é calculado, leia [quanto do imóvel vira crédito](/conteudo/ltv-quanto-do-imovel-vira-credito/).
+O valor liberado também depende da avaliação e costuma ficar abaixo do teto. Para entender como esse percentual é calculado, leia [quanto do imóvel vira crédito](/conteudo/ltv-quanto-do-imovel-vira-credito/).
 
 ## Quando a reorganização faz sentido
 
@@ -82,9 +82,9 @@ O valor liberado também depende da avaliação. Segundo a Abecip, o LTV médio 
 3. **Compare propostas pelo CET**, e não apenas pela taxa nominal. Seguros, tarifas e indexador só aparecem nesse indicador.
 4. **Análise de crédito e avaliação:** a instituição examina a renda e envia um engenheiro para avaliar o bem. A avaliação define o valor liberado.
 5. **Assinatura e registro:** o contrato é registrado no cartório de imóveis e o dinheiro só é liberado depois disso.
-6. **Quitação imediata:** pague as dívidas no mesmo dia, guarde os termos de quitação e reduza os limites do cartão.
+6. **Quitação imediata:** pague as dívidas assim que o recurso for liberado, guarde os termos de quitação e reduza os limites do cartão.
 
-O processo costuma levar algumas semanas, principalmente por causa da avaliação e do registro. Se quiser testar valores e prazos antes de qualquer conversa, use o [simulador](/#simulador).
+O processo costuma levar algumas semanas, principalmente por causa da avaliação e do registro. Na Souvrin, acompanhamos cada uma dessas etapas com você, do mapa das dívidas aos termos de quitação. O passo a passo completo, com o papel de cada parte, está em [crédito com garantia de imóvel: o processo completo](/conteudo/como-funciona-credito-com-garantia-de-imovel-etapas/), e a lista do que separar, em [documentos para crédito com garantia de imóvel](/conteudo/documentos-credito-com-garantia-de-imovel/). Se quiser testar valores e prazos antes de qualquer conversa, use o [simulador](/#simulador).
 
 ## Perguntas frequentes
 
@@ -106,7 +106,7 @@ Não necessariamente. Algumas instituições aceitam bens ainda financiados, e o
 
 ### Quanto é possível obter com a garantia?
 
-O teto depende da avaliação do imóvel e da sua renda. Em apartamentos, o limite pode chegar a 60% do valor avaliado, e casas e imóveis comerciais costumam ter limite menor. O LTV médio do mercado, segundo a Abecip, ficou em 33% no primeiro semestre de 2026.
+O teto depende da avaliação do imóvel e da sua renda. Em apartamentos, o limite pode chegar a 60% do valor avaliado, e casas e imóveis comerciais costumam ter limite menor.
 
 ### Qual a diferença entre taxa de juros e CET?
 
