@@ -50,6 +50,10 @@ Aprovada a proposta, o contrato é assinado e levado ao Registro de Imóveis. A 
 
 Com o contrato registrado, a instituição libera os recursos. Quando o objetivo é quitar dívidas, orientamos a liquidação das dívidas assim que o recurso é liberado, com os termos de quitação guardados. Depois da liberação, seguimos disponíveis para dúvidas sobre amortização antecipada, portabilidade e o fim do contrato, quando a garantia é baixada da matrícula.
 
+## O que acontece dentro da instituição
+
+As etapas 5 a 7 correm na esteira da instituição financeira, com análise de crédito, vistoria, análise jurídica, contrato, registro e liberação. O guia [esteira bancária do home equity](/conteudo/esteira-bancaria-home-equity/) detalha cada uma, e o [prazo do cartório](/conteudo/esteira-registro-em-cartorio/) explica os prazos legais do registro.
+
 ## Quanto tempo leva
 
 Não existe prazo garantido. Na prática, a operação costuma levar algumas semanas entre a documentação completa e a liberação, e os pontos que mais pesam são três:

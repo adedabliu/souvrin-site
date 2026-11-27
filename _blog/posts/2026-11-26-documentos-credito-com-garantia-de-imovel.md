@@ -18,6 +18,8 @@ Não é preciso reunir tudo no primeiro contato. Na Souvrin, a documentação é
 3. **Renda:** holerites ou extratos e a declaração do Imposto de Renda, conforme a origem da renda.
 4. **Cônjuge e coproprietários**, quando houver, e o que a instituição pedir para o contrato.
 
+Cada etapa tem um guia próprio, com o passo a passo para obter os documentos: [etapa 1, imóvel](/conteudo/etapa-1-documentos-do-imovel/), [etapa 2, documentos pessoais](/conteudo/etapa-2-documentos-pessoais/), [etapa 3, renda](/conteudo/etapa-3-comprovacao-de-renda/) e [etapa 4, cônjuge e coproprietários](/conteudo/etapa-4-conjuge-e-coproprietarios/).
+
 Pedir só o necessário em cada momento também é uma questão de proteção de dados: documentos pessoais circulam apenas quando o caso de fato avança.
 
 ## Documentos do proponente pessoa física
