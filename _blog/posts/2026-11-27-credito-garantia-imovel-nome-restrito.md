@@ -37,7 +37,7 @@ Uma operação que só se sustenta se tudo der certo não deve ser feita. Se a r
 
 ## Usar o próprio crédito para quitar as pendências
 
-Em muitos casos, parte do novo crédito é destinada a quitar as dívidas que geraram a restrição. A lógica é substituir passivos caros e espalhados por uma única operação de custo menor e prazo mais longo. Algumas instituições exigem que essa quitação seja feita assim que o recurso for liberado, com comprovação.
+Em alguns casos, parte do novo crédito é destinada a quitar as dívidas que geraram a restrição. A lógica é substituir passivos caros e espalhados por uma única operação de custo menor e prazo mais longo. Algumas instituições exigem que essa quitação seja feita assim que o recurso for liberado, com comprovação.
 
 ### Um exemplo hipotético
 
