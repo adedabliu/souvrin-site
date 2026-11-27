@@ -33,7 +33,7 @@ Nesse caso, o saldo devedor entra na conta. Parte do novo crédito é usada para
 
 ## Por que a instituição não libera o valor inteiro
 
-A razão está na natureza da garantia. O imóvel fica vinculado por **alienação fiduciária**, regime previsto na [Lei 9.514/1997](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm). Enquanto a dívida está em dia, o imóvel continua sendo seu para morar ou usar. Se houver inadimplência, porém, o credor pode retomar o bem e levá-lo a leilão para recuperar o que emprestou. É um risco real, e quem contrata deve ter clareza de que o patrimônio responde pela operação.
+A razão está na natureza da garantia. O imóvel fica vinculado por **alienação fiduciária**, regime previsto na [Lei 9.514/1997](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm). Até a quitação, a instituição tem a propriedade fiduciária do imóvel, e você mantém a posse e o uso para morar ou trabalhar. Se houver inadimplência, porém, o credor pode retomar o bem e levá-lo a leilão para recuperar o que emprestou. É um risco real, e quem contrata deve ter clareza de que o patrimônio responde pela operação.
 
 Para se proteger desse cenário, a instituição deixa uma folga entre o crédito e o valor do imóvel. Ela existe por três motivos:
 
@@ -50,8 +50,8 @@ Os limites variam entre instituições, mas há um padrão geral de referência:
 | Tipo de imóvel | LTV costuma ser |
 |---|---|
 | Apartamento | até 60% |
-| Casa e sobrado | em geral menor, entre 45% e 50% |
-| Sala, loja e galpão comercial | bem menor, perto de 30% |
+| Casa e sobrado | em geral menor que o de apartamento |
+| Sala, loja e galpão comercial | bem menor |
 | Terreno | menor ainda, quando aceito |
 | Imóvel rural | poucas instituições aceitam |
 
