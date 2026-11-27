@@ -31,7 +31,7 @@ O **SCR**, Sistema de Informações de Créditos, é administrado pelo Banco Cen
 
 ## A renda continua decisiva
 
-O imóvel protege a instituição, mas não paga a parcela. Por isso, a renda comprovada precisa sustentar o compromisso com folga, e essa exigência não diminui por haver garantia. Na prática, quem tem restrição costuma passar por uma análise de renda mais rigorosa, e não menos.
+O imóvel protege a instituição, mas não paga a parcela. Por isso, a renda comprovada precisa sustentar o compromisso com folga, e essa exigência não diminui por haver garantia. Na prática, quem tem restrição tende a passar por uma análise de renda mais rigorosa, e não menos.
 
 Uma operação que só se sustenta se tudo der certo não deve ser feita. Se a restrição surgiu porque a renda caiu, trocar dívidas por uma parcela que também não cabe apenas troca o problema de lugar, com o imóvel em jogo.
 
