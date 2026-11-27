@@ -65,7 +65,7 @@ Se o LTV é o teto, o que determina o ponto em que você realmente chega?
 2. **A renda.** A parcela precisa caber no orçamento comprovado. Em geral, as instituições analisam quanto da renda ficaria comprometido.
 3. **A situação documental.** Matrícula com pendências, dívidas de IPTU ou construção sem averbação podem reduzir o valor aprovado ou travar a operação até a regularização. Sobre este último ponto, vale ler o conteúdo sobre [imóvel com construção não averbada como garantia](/conteudo/imovel-com-construcao-nao-averbada-pode-ser-garantia/).
 
-Um dado ajuda a calibrar a expectativa. Segundo a [Abecip](https://www.abecip.org.br/), o LTV médio das operações de home equity no primeiro semestre de 2026 foi de 33%. Ou seja, na prática o crédito costuma ficar bem abaixo do limite máximo.
+Por isso, na prática, o crédito costuma ficar abaixo do limite máximo.
 
 ## Tomar menos que o teto pode ser a decisão mais inteligente
 

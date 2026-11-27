@@ -16,7 +16,7 @@ Antes das etapas, vale separar os papéis, porque é aqui que nasce a maior part
 - **Você (o proponente):** informa o objetivo, entrega documentos e decide se aceita a proposta.
 - **A instituição financeira:** analisa o crédito, contrata a avaliação do imóvel, define taxa, prazo e valor aprovado, e libera os recursos.
 - **O Registro de Imóveis:** registra a garantia na matrícula. Sem esse registro, não há liberação.
-- **A Souvrin:** consultoria e intermediação. Estruturamos a operação, comparamos instituições, organizamos a documentação e acompanhamos cada etapa até o dinheiro cair. A Souvrin não é instituição financeira e não aprova crédito.
+- **A Souvrin:** consultoria e intermediação. Estruturamos a operação, comparamos as instituições disponíveis para o caso, organizamos a documentação e acompanhamos cada etapa até o dinheiro cair. A Souvrin não é instituição financeira e não aprova crédito.
 
 ## As sete etapas, uma a uma
 
@@ -30,7 +30,7 @@ Com a matrícula atualizada em mãos, verificamos se o bem está apto: se há ô
 
 ### 3. Estrutura e comparação de propostas
 
-Definido o desenho, apresentamos o caso às instituições parceiras que aceitam aquele perfil de imóvel e de proponente. As condições são comparadas pelo **CET**, o custo efetivo total, que soma juros, seguros, tarifas e impostos. A taxa nominal sozinha engana: duas propostas com a mesma taxa podem ter custos totais bem diferentes.
+Definido o desenho, apresentamos o caso às instituições, quando aplicável mais de uma, que aceitam aquele perfil de imóvel e de proponente. As condições são comparadas pelo **CET**, o custo efetivo total, que soma juros, seguros, tarifas e impostos. A taxa nominal sozinha engana: duas propostas com a mesma taxa podem ter custos totais bem diferentes.
 
 Também é aqui que se ajusta o valor. O teto depende do LTV, a fração do valor de avaliação que pode virar crédito, explicada em [quanto do imóvel vira crédito](/conteudo/ltv-quanto-do-imovel-vira-credito/). Pedir menos que o máximo costuma deixar a operação mais saudável.
 
@@ -44,11 +44,11 @@ A instituição analisa renda, histórico e capacidade de pagamento e envia um e
 
 ### 6. Contrato e registro
 
-Aprovada a proposta, o contrato é assinado e levado ao Registro de Imóveis. A garantia é constituída por **alienação fiduciária**, prevista na [Lei 9.514/1997](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm): o imóvel continua seu para morar, usar ou alugar, e a propriedade fiduciária fica com a instituição só até a quitação. O registro tem custo de cartório (emolumentos), que entra na conta desde o início.
+Aprovada a proposta, o contrato é assinado e levado ao Registro de Imóveis. A garantia é constituída por **alienação fiduciária**, prevista na [Lei 9.514/1997](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm): a instituição passa a ter a propriedade fiduciária do imóvel até a quitação, e você mantém a posse e o uso para morar, trabalhar ou alugar. O registro tem custo de cartório (emolumentos), que entra na conta desde o início.
 
 ### 7. Liberação e acompanhamento
 
-Com o contrato registrado, a instituição libera os recursos. Quando o objetivo é quitar dívidas, orientamos a liquidação no mesmo dia, com os termos de quitação guardados. Depois da liberação, seguimos disponíveis para dúvidas sobre amortização antecipada, portabilidade e o fim do contrato, quando a garantia é baixada da matrícula.
+Com o contrato registrado, a instituição libera os recursos. Quando o objetivo é quitar dívidas, orientamos a liquidação das dívidas assim que o recurso é liberado, com os termos de quitação guardados. Depois da liberação, seguimos disponíveis para dúvidas sobre amortização antecipada, portabilidade e o fim do contrato, quando a garantia é baixada da matrícula.
 
 ## Quanto tempo leva
 
@@ -82,7 +82,7 @@ Não. A liberação acontece depois que a alienação fiduciária é registrada 
 
 ### Preciso sair do imóvel ou mudar a escritura?
 
-Não. Você continua morando ou usando o imóvel normalmente. O que muda é a anotação da garantia na matrícula, que é baixada quando o contrato é quitado.
+Não é preciso sair. Você mantém a posse e o uso do imóvel normalmente. Com o registro da alienação fiduciária, a instituição passa a ter a propriedade fiduciária até a quitação, e então a garantia é baixada da matrícula.
 
 ### A Souvrin garante a aprovação?
 

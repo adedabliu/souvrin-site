@@ -60,7 +60,7 @@ Para dívidas de valor mais baixo, os custos fixos da operação pesam mais, e r
 
 A análise olha para a renda e para o bem. Matrícula atualizada, impostos em dia e situação documental regular facilitam o processo. Quando há acréscimos que nunca foram registrados, vale entender antes se isso atrapalha: o artigo sobre [imóvel com construção não averbada como garantia](/conteudo/imovel-com-construcao-nao-averbada-pode-ser-garantia/) explica o que muda nesses casos.
 
-O valor liberado também depende da avaliação. Segundo a Abecip, o LTV médio das operações no primeiro semestre de 2026 foi de 33% do valor do imóvel. Para entender como esse percentual é calculado, leia [quanto do imóvel vira crédito](/conteudo/ltv-quanto-do-imovel-vira-credito/).
+O valor liberado também depende da avaliação e costuma ficar abaixo do teto. Para entender como esse percentual é calculado, leia [quanto do imóvel vira crédito](/conteudo/ltv-quanto-do-imovel-vira-credito/).
 
 ## Quando a reorganização faz sentido
 
@@ -106,7 +106,7 @@ Não necessariamente. Algumas instituições aceitam bens ainda financiados, e o
 
 ### Quanto é possível obter com a garantia?
 
-O teto depende da avaliação do imóvel e da sua renda. Em apartamentos, o limite pode chegar a 60% do valor avaliado, e casas e imóveis comerciais costumam ter limite menor. O LTV médio do mercado, segundo a Abecip, ficou em 33% no primeiro semestre de 2026.
+O teto depende da avaliação do imóvel e da sua renda. Em apartamentos, o limite pode chegar a 60% do valor avaliado, e casas e imóveis comerciais costumam ter limite menor.
 
 ### Qual a diferença entre taxa de juros e CET?
 

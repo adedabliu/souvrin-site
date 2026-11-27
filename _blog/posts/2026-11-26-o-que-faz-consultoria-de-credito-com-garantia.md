@@ -15,8 +15,8 @@ A instituição financeira é quem empresta: ela analisa o crédito, define taxa
 
 Essa diferença aparece em três pontos práticos:
 
-- **Comparação.** Um gerente apresenta a linha do próprio banco. A consultoria compara propostas de várias instituições parceiras pelo **CET**, o custo efetivo total, e não só pela taxa.
-- **Estrutura.** O mesmo objetivo pode ser resolvido de formas diferentes: valor menor com prazo mais curto, uso de outro imóvel como garantia ou quitação de um financiamento existente. Escolher o desenho certo costuma valer mais que alguns décimos de taxa.
+- **Comparação.** Um gerente apresenta a linha do próprio banco. A consultoria compara as propostas das instituições disponíveis para o caso pelo **CET**, o custo efetivo total, e não só pela taxa.
+- **Estrutura.** O mesmo objetivo pode ser resolvido de formas diferentes: valor menor com prazo mais curto, uso de outro imóvel como garantia ou quitação de um financiamento existente.
 - **Condução.** Documentação, avaliação, contrato e registro envolvem várias partes. Ter alguém responsável por fazer o processo andar evita idas e vindas.
 
 ## O que fazemos em cada etapa
@@ -28,7 +28,7 @@ Essa diferença aparece em três pontos práticos:
 | Estrutura | Define o desenho da operação e as instituições que aceitam o perfil |
 | Propostas | Compara as condições pelo custo total e explica as diferenças |
 | Documentação | Confere cada documento antes do envio para evitar exigências |
-| Contrato e registro | Revisa o contrato com você e acompanha o cartório até a liberação |
+| Contrato e registro | Explica as condições do contrato e acompanha o cartório até a liberação; a revisão jurídica cabe a um advogado |
 
 O detalhamento de cada passo está em [crédito com garantia de imóvel: o processo completo](/conteudo/como-funciona-credito-com-garantia-de-imovel-etapas/).
 
@@ -69,7 +69,7 @@ Não. O banco concede o crédito e assume o risco. A consultoria atua ao lado do
 
 ### Vale mais a pena ir direto ao meu banco?
 
-Pode valer, se o seu banco tiver a melhor condição para o seu caso. A única forma de saber é comparar propostas de várias instituições pelo custo efetivo total, que é o que a consultoria faz.
+Pode valer, se o seu banco tiver a melhor condição para o seu caso. A forma de saber é comparar as propostas disponíveis pelo custo efetivo total, que é o que a consultoria faz.
 
 ### A consultoria consegue aprovar quem foi recusado no banco?
 

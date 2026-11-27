@@ -23,13 +23,15 @@ Pedir só o necessário em cada momento também é uma questão de proteção de
 - Documento de identificação com foto e CPF.
 - Comprovante de estado civil (certidão de nascimento, casamento ou averbação de divórcio) e, se houver regime de bens específico, o pacto antenupcial.
 - Comprovante de residência recente.
-- Documentos do cônjuge ou companheiro, quando houver, porque em geral ele também assina a garantia.
+- Documentos do cônjuge ou companheiro em união estável, quando houver, porque em geral ele também assina a garantia.
+- Documentos de todos os coproprietários: quem consta na matrícula assina a garantia e entrega a mesma documentação.
+- Autorização de consulta ao Sistema de Informações de Crédito (SCR) do Banco Central, assinada antes da análise.
 
 ### Comprovação de renda
 
 Depende da origem do dinheiro:
 
-- **Assalariado:** holerites recentes e, em alguns casos, extrato do FGTS.
+- **Assalariado:** holerites recentes, declaração do Imposto de Renda e extratos bancários.
 - **Empresário ou profissional liberal:** declaração do Imposto de Renda com recibo de entrega, extratos bancários dos últimos meses e, quando houver, comprovante de pró-labore e distribuição de lucros.
 - **Renda de aluguéis ou investimentos:** contratos de locação, extratos e a declaração do IR que comprove a origem.
 
@@ -52,7 +54,7 @@ Se o imóvel pertence a um sócio, e não à empresa, ele e o cônjuge participa
 
 - **Matrícula atualizada** no Registro de Imóveis, com certidão de ônus reais. Muitas instituições exigem emissão recente, em geral de até 30 dias.
 - **IPTU** do ano, com a área construída e sem débitos.
-- **Declaração de quitação do condomínio**, no caso de apartamento ou casa em condomínio.
+- **Declaração de quitação do condomínio**, no caso de apartamento ou casa em condomínio, em geral assinada pelo síndico e acompanhada da ata que o elegeu.
 - **Habite-se e averbação da construção**, quando houve obra ou ampliação. Se a área real não está na matrícula, o valor de avaliação tende a cair. Explicamos esse ponto em [imóvel com obra não averbada serve de garantia?](/conteudo/imovel-com-construcao-nao-averbada-pode-ser-garantia/)
 - **Saldo devedor do financiamento atual**, se o imóvel ainda estiver financiado, para que o novo crédito o quite.
 
@@ -84,7 +86,7 @@ Depende da instituição, mas muitas exigem certidão emitida nos últimos 30 di
 
 ### O cônjuge precisa participar?
 
-Na maioria dos casos, sim. Como o imóvel vai em garantia, o cônjuge costuma assinar o contrato, conforme o regime de bens.
+Na maioria dos casos, sim, inclusive em união estável. Como o imóvel vai em garantia, o cônjuge ou companheiro costuma assinar o contrato. No regime de separação total de bens, a exigência varia conforme a instituição.
 
 ### Quem tem renda informal consegue fazer a operação?
 
