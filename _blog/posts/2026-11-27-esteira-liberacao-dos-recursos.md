@@ -6,6 +6,8 @@ categoria: home-equity
 formato: duvida
 palavra_chave: liberação do empréstimo com garantia de imóvel
 resumo: A última etapa da esteira: conferência do registro, quitações previstas, crédito em conta, primeira parcela e os comprovantes que vale guardar.
+imagem: casa-piscina
+imagem_alt: Casa contemporânea com piscina e área de refeições
 ---
 Na última etapa da esteira, a instituição financeira confere a matrícula com a alienação fiduciária registrada e libera os recursos: primeiro as quitações previstas no contrato, depois o restante na sua conta. Costuma levar alguns dias após o registro, conforme a rotina operacional de cada instituição.
 

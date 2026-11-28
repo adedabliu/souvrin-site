@@ -6,6 +6,8 @@ categoria: home-equity
 formato: duvida
 palavra_chave: contrato de empréstimo com garantia de imóvel
 resumo: Cédula de Crédito Bancário, CET, assinatura eletrônica e cônjuge: o que acontece na formalização e o que vale ler com atenção.
+imagem: varanda-gourmet
+imagem_alt: Varanda gourmet com sofá e mesa de jantar
 ---
 Com crédito, laudo e jurídico aprovados, a instituição financeira emite o contrato com as condições finais, e você, junto com cônjuge e coproprietários quando for o caso, confere e assina. A etapa costuma levar alguns dias, dependendo principalmente da disponibilidade de todos para assinar.
 

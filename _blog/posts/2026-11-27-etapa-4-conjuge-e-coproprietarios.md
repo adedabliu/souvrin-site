@@ -6,6 +6,8 @@ categoria: home-equity
 formato: duvida
 palavra_chave: cônjuge no empréstimo com garantia de imóvel
 resumo: A quarta etapa da coleta, só quando houver: documentos do cônjuge ou companheiro e de todos os que constam na matrícula do imóvel.
+imagem: casal
+imagem_alt: Casal rindo no sofá de casa
 ---
 A quarta etapa só existe quando há outras pessoas ligadas ao imóvel: o seu cônjuge ou companheiro, e todos os que aparecem como proprietários na matrícula. Pedimos os documentos delas porque, ao oferecer o imóvel em garantia, todos os que têm direito sobre ele precisam concordar e assinar.
 

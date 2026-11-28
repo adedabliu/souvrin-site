@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: o que acontece se não pagar empréstimo com garantia de imóvel
 resumo: Do primeiro atraso ao leilão, a execução da alienação fiduciária segue prazos curtos e acontece no cartório, sem processo judicial. O passo a passo da lei e, sobretudo, como não chegar a esse ponto.
+imagem: detalhe-telhado
+imagem_alt: Cobertura de madeira e panos de vidro
 ---
 Quem oferece o imóvel em garantia costuma ter uma dúvida que nem sempre faz em voz alta: e se um dia as parcelas não couberem mais? Se a dívida não for paga, a instituição credora pode, depois de uma intimação com prazo de 15 dias para regularizar, consolidar a propriedade em seu nome e levar o imóvel a leilão, tudo pela via extrajudicial, no Registro de Imóveis. Conhecer esse rito é a melhor forma de evitar que ele alcance o seu patrimônio.
 

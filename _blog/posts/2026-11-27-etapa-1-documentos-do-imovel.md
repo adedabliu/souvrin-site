@@ -6,6 +6,8 @@ categoria: home-equity
 formato: duvida
 palavra_chave: documentos do imóvel para empréstimo com garantia
 resumo: A primeira etapa da coleta: fotos, matrícula e IPTU. O que cada um mostra na análise e como enviar sem retrabalho.
+imagem: detalhe-pedra
+imagem_alt: Detalhe de fachada com pedra, madeira e vidro
 ---
 Na primeira etapa, pedimos três itens sobre o imóvel: fotos da fachada e dos ambientes internos, a matrícula atualizada e o IPTU do ano. Começamos por eles porque são o que permite saber, logo no início, se o imóvel pode ser aceito como garantia e qual valor de crédito faz sentido buscar, antes de você precisar compartilhar qualquer dado pessoal.
 

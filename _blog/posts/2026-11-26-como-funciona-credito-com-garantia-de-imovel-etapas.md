@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: como funciona crédito com garantia de imóvel
 resumo: Sete etapas, do diagnóstico ao registro em cartório, explicadas por quem conduz a operação: o que acontece em cada uma, o que você entrega e onde costumam surgir atrasos.
+imagem: casa-jardim
+imagem_alt: Casa com parede de pedra, escadaria e paisagismo
 ---
 Quem pensa em usar um imóvel como garantia quer saber, antes de qualquer número, como a operação acontece: quem analisa, o que precisa ser entregue, quando o dinheiro cai e em que ponto ainda dá para desistir. A resposta curta é que o processo tem sete etapas, leva em geral algumas semanas e depende de três decisões que não são suas nem nossas: a análise de crédito, o laudo de avaliação e o registro no cartório. Este guia mostra cada uma delas como a Souvrin conduz no dia a dia.
 

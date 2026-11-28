@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: home equity vale a pena
 resumo: Para quem tem patrimônio em imóveis, o home equity pode ser a forma mais eficiente de obter liquidez, ou um erro caro. Critérios objetivos para separar os dois casos.
+imagem: sala-jardim
+imagem_alt: Sala aberta para um jardim gramado
 ---
 Quem tem boa parte do patrimônio em imóveis e precisa de liquidez costuma oscilar entre vender, pegar um empréstimo comum ou usar o imóvel como garantia, sem um critério claro para escolher. O home equity vale a pena quando existe um destino definido para o dinheiro, a parcela cabe com folga e o custo total fica abaixo das alternativas; fora disso, tende a ser um risco desnecessário. A seguir, as comparações e os critérios que usamos na Souvrin para chegar a essa resposta.
 

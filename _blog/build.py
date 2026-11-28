@@ -14,6 +14,8 @@ categoria: home-equity            (home-equity, consorcio, financiamento, constr
                                    capital-de-giro, consorcio-empresarial, imovel-comercial, geral)
 formato: artigo                   (artigo ou duvida)
 palavra_chave: empréstimo com garantia de imóvel
+imagem: nome-da-foto                (opcional; assets/fotos/<nome>.webp, 1200x675)
+imagem_alt: descrição da foto
 resumo: Texto curto do card no índice (opcional; usa a descrição se faltar).
 rascunho: nao                     (sim = não publica)
 ---
@@ -68,6 +70,8 @@ CSS = """
 .post .disc{font-size:13.5px;color:var(--aco);margin-top:28px}
 .selo{display:inline-block;font-size:12.5px;font-weight:700;padding:4px 10px;border-radius:999px;background:#F3ECDD;color:#7A5C22;letter-spacing:.06em}
 .card .selo{align-self:flex-start}
+.post .capa{margin:28px 0 0}.post .capa img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:20px}
+.card{overflow:hidden}.card .thumb{display:block;width:calc(100% + 56px);max-width:none;margin:-28px -28px 6px;aspect-ratio:16/9;object-fit:cover}
 .card time{font-size:13.5px;color:var(--aco)}
 """
 
@@ -100,6 +104,8 @@ def parse(path):
     meta['atualizado'] = datetime.date.fromisoformat(meta['atualizado']) if meta.get('atualizado') else meta['data']
     meta['formato'] = meta.get('formato', 'artigo')
     meta['md'] = m.group(2).strip()
+    if meta.get('imagem') and not (ROOT / 'assets/fotos' / f'{meta["imagem"]}.webp').exists():
+        fail(f'{path.name}: foto assets/fotos/{meta["imagem"]}.webp não existe')
     return meta
 
 
@@ -229,7 +235,9 @@ def paginas():
 
 
 def card(p, r):
-    return (f'<a class="card" href="{r}conteudo/{p["slug"]}/"><span class="selo">{E(FORMATO.get(p["formato"], "Artigo"))}</span>'
+    foto = (f'<img class="thumb" src="{r}assets/fotos/{p["imagem"]}.webp" alt="" width="1200" height="675" loading="lazy">'
+            if p.get('imagem') else '')
+    return (f'<a class="card" href="{r}conteudo/{p["slug"]}/">{foto}<span class="selo">{E(FORMATO.get(p["formato"], "Artigo"))}</span>'
             f'<h2 style="font-size:21px;letter-spacing:-.01em">{E(p["titulo"])}</h2><p>{E(p.get("resumo") or p["descricao"])}</p>'
             f'<time datetime="{p["data"]}">{data_br(p["data"])}</time><span class="go">Ler →</span></a>')
 
@@ -290,11 +298,13 @@ def build():
         upd = f' · Atualizado em {data_br(p["atualizado"])}' if p['atualizado'] != p['data'] else ''
         cta_prod = (f'<a class="btn" href="../../{cat_slug}/" style="border-color:var(--ala);color:var(--ala)">Ver {E(cat_nome.lower())}</a>'
                     if cat_slug != 'simulador' else '')
+        capa = (f'\n  <figure class="capa"><img src="../../assets/fotos/{p["imagem"]}.webp" alt="{E(p.get("imagem_alt", ""))}" width="1200" height="675" fetchpriority="high"></figure>'
+                if p.get('imagem') else '')
         main = f'''<div class="band"><article class="post">
   <nav class="crumb" aria-label="Você está em"><a href="../../">Início</a> / <a href="../">Conteúdo</a> / {E(cat_nome)}</nav>
   <span class="selo">{E(FORMATO.get(p['formato'], 'Artigo'))}</span>
   <h1 style="margin-top:14px;font-size:clamp(32px,4.4vw,50px)">{E(p['titulo'])}</h1>
-  <div class="meta"><span>Por Equipe Souvrin</span><time datetime="{p['data']}">{data_br(p['data'])}</time><span>{p['min']} min de leitura</span></div>
+  <div class="meta"><span>Por Equipe Souvrin</span><time datetime="{p['data']}">{data_br(p['data'])}</time><span>{p['min']} min de leitura</span></div>{capa}
   <div class="body">
 {body}
   </div>

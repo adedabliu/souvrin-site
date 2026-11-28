@@ -6,6 +6,8 @@ categoria: home-equity
 formato: duvida
 palavra_chave: vistoria do imóvel para empréstimo com garantia
 resumo: Agendamento, visita, laudo e possível contestação: como funciona a avaliação do imóvel dentro da esteira e como evitar que ela atrase.
+imagem: casa-pedra
+imagem_alt: Fachada de casa em pedra, madeira e aço
 ---
 Nesta etapa, um engenheiro ou arquiteto credenciado pela instituição financeira visita o imóvel e emite o laudo de avaliação, que define o valor de referência da garantia. Entre o agendamento e a entrega do laudo, costumam passar de uma a duas semanas, conforme a agenda da empresa avaliadora e a cidade.
 

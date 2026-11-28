@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: empréstimo com garantia de imóvel financiado
 resumo: O saldo do financiamento não impede a operação, mas muda a conta: parte do novo crédito encerra a dívida antiga e só o restante fica disponível. Veja como funciona e quando compensa.
+imagem: sala-varanda
+imagem_alt: Sala de estar ampla com estante e varanda ao entardecer
 ---
 Muitos proprietários deixam de considerar o crédito com garantia de imóvel porque ainda estão pagando o financiamento e imaginam que o bem precisa estar quitado. Não precisa: algumas instituições aceitam o imóvel financiado, usam parte do novo crédito para quitar o saldo devedor e liberam a diferença. A operação, porém, tem regras próprias, e entender a conta antes de começar evita frustração.
 

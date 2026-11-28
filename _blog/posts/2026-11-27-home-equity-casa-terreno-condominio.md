@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: home equity terreno em condomínio
 resumo: Casas em condomínio costumam ser bem aceitas; terrenos, nem sempre. Veja por que, quais documentos pesam na análise e como usar o crédito para construir ou capitalizar um projeto.
+imagem: casa-rua
+imagem_alt: Casa térrea elevada com palmeiras, vista da rua
 ---
 Quem tem uma casa ou um lote em condomínio fechado costuma ter ali uma parte importante do patrimônio e, muitas vezes, nenhuma forma simples de transformá-lo em liquidez sem vender. O crédito com garantia de imóvel resolve isso: casas em condomínio tendem a ser bem aceitas, enquanto terrenos entram em menos instituições e com limite menor. A diferença está na forma como o mercado enxerga a revenda de cada tipo de bem.
 
