@@ -6,6 +6,8 @@ categoria: home-equity
 formato: duvida
 palavra_chave: comprovação de renda para empréstimo com garantia de imóvel
 resumo: A terceira etapa da coleta: o que assalariados, empresários e empresas enviam para comprovar renda, e os cuidados que evitam reanálise.
+imagem: sala-varanda
+imagem_alt: Sala de estar ampla com estante e varanda ao entardecer
 ---
 Na terceira etapa, pedimos os documentos que comprovam a sua renda, e a lista depende de onde ela vem: holerites para assalariados, extratos bancários para empresários e autônomos, documentos da empresa quando o crédito é para uma pessoa jurídica. Eles mostram à instituição que a parcela cabe com folga no seu orçamento, que é o centro da análise de crédito.
 

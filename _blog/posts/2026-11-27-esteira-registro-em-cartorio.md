@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: prazo do cartório para registro da alienação fiduciária
 resumo: O que a lei diz sobre o prazo de registro, o que acontece quando o cartório faz exigências e por que, na prática, essa etapa pode demorar mais.
+imagem: fachada-madeira
+imagem_alt: Fachada com ripado de madeira e janelas altas
 ---
 Depois da assinatura, o contrato vai ao Registro de Imóveis, que tem, pela lei, até 10 dias úteis contados do protocolo para registrar a alienação fiduciária ou devolver o título com exigências. Na prática, o prazo total depende de o título passar sem exigências na primeira análise.
 

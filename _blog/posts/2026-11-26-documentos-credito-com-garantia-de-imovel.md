@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: documentos para empréstimo com garantia de imóvel
 resumo: O que separar sobre você, sobre a empresa e sobre o imóvel, em que momento cada documento entra e os detalhes que mais travam a análise.
+imagem: apto-vista
+imagem_alt: Apartamento com janelas do piso ao teto e vista da cidade
 ---
 A documentação é a etapa que mais atrasa uma operação com garantia de imóvel, e quase sempre por motivos simples: certidão vencida, arquivo ilegível ou um dado que não bate entre dois documentos. Em linhas gerais, a instituição pede três blocos de papéis: os do proponente, os da renda e os do imóvel. A lista exata muda de uma instituição para outra, mas o núcleo é sempre parecido, e organizá-lo antes encurta semanas do processo.
 

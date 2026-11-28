@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: construção não averbada empréstimo com garantia de imóvel
 resumo: A obra existe, mas a matrícula não a reconhece: entenda o efeito disso no crédito com garantia e o caminho para regularizar.
+imagem: casa-pedra
+imagem_alt: Fachada de casa em pedra, madeira e aço
 ---
 Quem construiu um patrimônio ao longo dos anos raramente tem o imóvel exatamente como foi comprado. Uma ala nova na casa de condomínio, um segundo pavimento, um anexo no galpão ou na sala comercial: tudo isso valoriza o bem, mas só vale para o crédito o que o Registro de Imóveis reconhece. Quando a matrícula ficou parada no tempo, a obra não averbada costuma reduzir o valor liberado e, em certos casos, faz a instituição exigir a regularização antes de qualquer avanço.
 

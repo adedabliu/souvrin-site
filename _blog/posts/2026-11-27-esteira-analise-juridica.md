@@ -6,6 +6,8 @@ categoria: home-equity
 formato: duvida
 palavra_chave: análise jurídica do imóvel para empréstimo
 resumo: Matrícula, ônus, ações, débitos e estado civil: o que o jurídico da instituição verifica antes de aceitar o imóvel como garantia.
+imagem: detalhe-pedra
+imagem_alt: Detalhe de fachada com pedra, madeira e vidro
 ---
 Na análise jurídica, a instituição financeira confirma se o imóvel pode receber a garantia e se quem vai assiná-la tem poderes para isso. A etapa costuma levar de alguns dias a duas semanas e pode correr em paralelo com a vistoria, dependendo da instituição.
 

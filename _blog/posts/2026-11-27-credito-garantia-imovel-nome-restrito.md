@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: empréstimo com garantia de imóvel para negativado
 resumo: Uma restrição no nome, um processo judicial ou um apontamento no SCR não encerram a conversa quando existe um imóvel de bom valor. Mas também não garantem nada. O que pesa de fato na análise.
+imagem: sala-poente
+imagem_alt: Sala integrada à varanda com a luz do fim de tarde
 ---
 Uma restrição no CPF, um processo judicial ou um apontamento de atraso no histórico de crédito costumam fechar portas no crédito comum, mesmo para quem tem patrimônio relevante em imóveis. Com um bom imóvel em garantia, essas situações não impedem automaticamente a análise, porque a garantia reduz o risco da instituição; ainda assim, não existe aprovação garantida, e a renda precisa sustentar a parcela. Este artigo explica o que pesa, quais são os riscos e quando é melhor organizar a casa antes.
 

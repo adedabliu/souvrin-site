@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: avaliação de imóvel para empréstimo com garantia
 resumo: Um método simples para chegar a uma faixa de valor realista antes da vistoria e entender o que o avaliador considera ou ignora.
+imagem: fachada-madeira
+imagem_alt: Fachada com ripado de madeira e janelas altas
 ---
 Poucos momentos de uma operação de crédito com garantia geram tanta frustração quanto a chegada do laudo com um valor abaixo do esperado. A forma de evitar o susto é fazer, antes da vistoria, uma análise de mercado por amostragem, com os mesmos critérios do avaliador, e chegar a uma faixa de valor realista em vez de um número desejado.
 

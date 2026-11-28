@@ -6,6 +6,8 @@ categoria: home-equity
 formato: duvida
 palavra_chave: análise de crédito home equity
 resumo: Cadastro, birôs, SCR e capacidade de pagamento: o que a área de crédito verifica, o que costuma travar a análise e como responder rápido.
+imagem: detalhe-telhado
+imagem_alt: Cobertura de madeira e panos de vidro
 ---
 Na análise de crédito, a instituição financeira confere quem você é, como está o seu histórico e se a renda comprovada sustenta a parcela com segurança. É a primeira etapa da esteira e costuma levar alguns dias úteis, desde que a documentação esteja completa.
 

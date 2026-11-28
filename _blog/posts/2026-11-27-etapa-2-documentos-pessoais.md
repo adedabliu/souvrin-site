@@ -6,6 +6,8 @@ categoria: home-equity
 formato: duvida
 palavra_chave: documentos pessoais para empréstimo com garantia de imóvel
 resumo: A segunda etapa da coleta: identificação, estado civil, endereço e e-mail. Para que servem e como enviar sem idas e vindas.
+imagem: apto-vista
+imagem_alt: Apartamento com janelas do piso ao teto e vista da cidade
 ---
 Na segunda etapa, pedimos o seu documento de identificação com foto, a certidão de estado civil, um comprovante de endereço atualizado e um e-mail de contato. Eles servem para confirmar quem é você, se o seu estado civil está coerente com o que consta na matrícula do imóvel e por onde a instituição vai se comunicar durante o processo.
 

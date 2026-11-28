@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: LTV empréstimo com garantia de imóvel
 resumo: O LTV mostra que fatia do valor do imóvel pode ser convertida em crédito e explica por que ela nunca chega a 100%.
+imagem: casa-rua
+imagem_alt: Casa térrea elevada com palmeiras, vista da rua
 ---
 Quem construiu patrimônio em imóveis e precisa de liquidez para um projeto, um investimento ou a reorganização das finanças esbarra rápido em uma sigla: **LTV**, de *loan to value*. Ela mede a proporção entre o valor do crédito e o valor de avaliação do bem oferecido em garantia. Em operações com apartamentos, o teto costuma ficar em até 60%. Um imóvel avaliado em R$ 2 milhões, por exemplo, comportaria um crédito de até cerca de R$ 1,2 milhão. Casas, imóveis comerciais e terrenos costumam ter um limite mais baixo.
 

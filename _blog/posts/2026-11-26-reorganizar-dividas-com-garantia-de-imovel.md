@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: trocar dívida cara por barata
 resumo: Cartão, cheque especial e empréstimo pessoal custam muito mais que o crédito com garantia de imóvel, mas a troca só funciona com a conta feita e a disciplina mantida.
+imagem: sala-sol
+imagem_alt: Sala de jantar iluminada com portas de vidro para as árvores
 ---
 Quem construiu patrimônio raramente fica com dívida cara por falta de bens. Ela costuma surgir por outros caminhos: um período de caixa apertado, um investimento que demorou a render, um parcelamento que virou rotina. O resultado é parecido em todos os casos, porque você paga taxas de rotativo e de crédito pessoal enquanto tem um imóvel parado, sem dívida nenhuma sobre ele. Dar a esse imóvel o papel de garantia permite **substituir passivos caros por uma única obrigação de custo menor e prazo mais longo**. A condição é que o comportamento financeiro que gerou a dívida mude junto com ela.
 

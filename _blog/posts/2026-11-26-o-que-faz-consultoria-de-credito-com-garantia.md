@@ -6,6 +6,8 @@ categoria: geral
 formato: artigo
 palavra_chave: consultoria de crédito com garantia de imóvel
 resumo: Banco concede, consultoria estrutura: o que uma consultoria de crédito faz por você, o que ela não pode fazer e o que se espera de quem trabalha nela.
+imagem: chegada
+imagem_alt: Mulher chegando em casa, diante de uma porta alta de madeira
 ---
 Quem procura crédito com garantia de imóvel costuma ter duas portas: ir direto a um banco ou contar com uma consultoria. O banco oferece o produto que tem. A consultoria começa pelo seu objetivo, compara as instituições disponíveis para o caso pelo custo total e conduz a operação até o dinheiro cair. É esse o trabalho da Souvrin, e este texto explica o que ele inclui, o que ele não inclui e como é a rotina de quem faz parte da equipe.
 

@@ -6,6 +6,8 @@ categoria: home-equity
 formato: artigo
 palavra_chave: esteira bancária home equity
 resumo: Da análise de crédito à liberação, o caminho interno da operação: seis etapas, quem cuida de cada uma e prazos de referência para você saber em que ponto o seu processo está.
+imagem: casa-noite
+imagem_alt: Casa iluminada ao anoitecer
 ---
 Depois que a documentação é enviada, a operação entra na esteira da instituição financeira: uma sequência de seis etapas internas, da análise de crédito à liberação dos recursos, cada uma conduzida por uma área diferente. Este guia mostra o que acontece em cada fase, quem atua e quanto ela costuma levar, para que você saiba exatamente em que ponto o seu processo está.
 
